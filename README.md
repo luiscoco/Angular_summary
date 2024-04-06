@@ -4,6 +4,8 @@ https://angular.dev/
  
 ## Components
 
+https://github.com/luiscoco/Angular_Components
+
 ## Template Syntax
 
 ## Directives
