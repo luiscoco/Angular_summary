@@ -1,2 +1,34 @@
-# Angular_summary
-Angular Summary
+# Angular Summary
+
+https://angular.dev/
+ 
+## Components
+
+## Template Syntax
+
+## Directives
+
+## Dependency Injection (Services)
+
+## Signals
+
+https://github.com/luiscoco/Angular_Signals-Sample
+
+## Routing
+
+## Forms 
+
+## HTTP Client
+
+## Performance
+
+## Testing
+
+## Internationalization
+
+## Animations
+
+## Angular Material
+
+
+
