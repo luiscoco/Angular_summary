@@ -12,7 +12,7 @@ https://angular.dev/
 
 ## Signals
 
-https://github.com/luiscoco/Angular_Signals-Sample
+https://github.com/luiscoco/Angular_Signals
 
 ## Routing
 
